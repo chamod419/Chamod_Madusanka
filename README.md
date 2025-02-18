@@ -3,6 +3,7 @@
 ## Description
 Welcome to my personal portfolio! This website showcases my skills, projects, and resume as a **Software Engineering Student** and **Web Developer**. Built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**, this portfolio is fully responsive and designed to highlight my work and experiences.
 
+
 ## Features
 - **Responsive Design**: Works seamlessly on mobile, tablet, and desktop devices.
 - **About Me Section**: Learn more about my background, skills, and goals.
