@@ -46,8 +46,8 @@ Check out the live demo of my portfolio: [https://chamod419.github.io/Chamod_Mad
 
 ## Contact
 Feel free to reach out to me:
-- **Email**: chamodmadhusanka55@gmail.com
 - **Phone**: 076 7691095
+- **Email**: chamodmadhusanka55@gmail.com
 - **GitHub**: [chamod419](https://github.com/chamod419)
 - **Linkedin**: [chamod](https://www.linkedin.com/in/chamod-madhusanka/)
 
